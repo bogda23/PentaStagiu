@@ -1,3 +1,3 @@
 #PentaStagiu
 
-Hi , welcome to my journey in to programming ! 
+Hi , welcome to my journey into programming ! 
